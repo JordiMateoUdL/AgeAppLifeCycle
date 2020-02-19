@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AgeAppLifeCycle</string>
+    <string name="dap_logo">DAP Logo</string>
+    <string name="campus_igualada_udl">Campus Igualada - UdL</string>
+    <string name="introduce_your_name">Introduce your name:</string>
+    <string name="name">Name</string>
+    <string name="select_your_birthday">Select your birthday:</string>
+    <string name="update">Update</string>
+    <string name="reset">Reset</string>
+    <string name="bio">Bio:</string>
+    <string name="start">start</string>
+</resources>
